@@ -1,4 +1,4 @@
-## Hi I'm Nasrin Pherdowsi 👋
+## Hi I'm Coder Neph 👋
 
 ### 🧠 About Me
 - 🌱 Currently learning **Data Science**, **Machine Learning**, and **Deep Learning**  
